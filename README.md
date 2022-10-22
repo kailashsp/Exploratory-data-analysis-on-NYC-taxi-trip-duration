@@ -14,5 +14,5 @@ the necessary remedies are taken.
 3. **Binvariate analysis** - This helps in finding the relationship between variable and helps in finding outliers and\
 significant columns in our dataset.
 
-4. **Correlation heatmap** - This step helps in identifying overall trends and can be helpful for Dimensionality reduction\
+4. **Correlation heatmap** - This step helps in identifying overall trends and can be helpful for Dimensionality reduction
 like factor analysis or PCA.
